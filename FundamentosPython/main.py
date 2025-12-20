@@ -3,7 +3,7 @@ from FuncoesExemplos import saudacao, soma, calcular_Desconto #importar funçõe
 
 saudacao('Ana', 30)
 
-resultado_soma = soma(10, 15)
+resultado_soma = soma(10, 15, 50)
 print(f'O resultado da soma é: {resultado_soma}')
 
 preco_produto = float(input('Digite o valor do produto: '))
