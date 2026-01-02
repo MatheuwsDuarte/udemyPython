@@ -1,6 +1,6 @@
 # 🐍 Programação Python: Do Zero à Inteligência Artificial (2026)
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 ![Course](https://img.shields.io/badge/Plataforma-Udemy-purple?style=for-the-badge&logo=udemy&logoColor=white)
 
@@ -21,7 +21,7 @@ O projeto está organizado nas seguintes categorias, conforme o progresso no cur
 
 ## 🛠 Tecnologias e Bibliotecas Utilizadas
 
-* **Linguagem Principal:** Python 3.12
+* **Linguagem Principal:** Python 3.14
 * **Análise e Manipulação de Dados:** **Pandas**, NumPy
 * **Visualização de Dados:** Matplotlib
 * **Automação:** Scripts para ambiente AWS 
