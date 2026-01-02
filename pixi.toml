@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Matheus Duarte <100427903+MatheuwsDuarte@users.noreply.github.com>"]
+channels = ["conda-forge"]
+name = "udemyPython"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+numpy = ">=2.4.0,<3"
